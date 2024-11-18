@@ -9,7 +9,7 @@ It is two player turn based tic tac toe game you can play with your friends.
 
 - java JRE (I use jre21)
 
-You also can use jar file to run and source code is in the /src folder
+You also can use jar file to run and source code is in the **"src"** folder
   
 
 
